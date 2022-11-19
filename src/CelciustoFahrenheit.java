@@ -6,7 +6,7 @@
 
 /**
  *
- * @Muhammad Zulkifli
+ * @author Administrator
  */
 public class CelciustoFahrenheit extends javax.swing.JFrame {
 
